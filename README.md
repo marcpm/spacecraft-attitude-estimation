@@ -14,7 +14,7 @@ The dataset for this challenge was collected by the Space Rendezvous Laboratory 
 
 #### Example images from the synthetic dataset
 
-[!Tango](https://kelvins.esa.int/media/competitions/satellite-pose-estimation-challenge/sats_with_different_bg.png)
+![Tango](https://kelvins.esa.int/media/competitions/satellite-pose-estimation-challenge/sats_with_different_bg.png)
 
 ### Models
 *July 1st* 
