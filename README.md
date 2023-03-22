@@ -12,9 +12,9 @@ The goal of this challenge is to estimate the pose, i.e., the relative position 
 
 The dataset for this challenge was collected by the Space Rendezvous Laboratory (SLAB), and are part of SLAB’s Spacecraft PosE Estimation Dataset (SPEED) benchmark.
 
-#### Example images from the synthetic dataset
+#### Example images with estimated axes.
 
-![Tango](https://kelvins.esa.int/media/competitions/satellite-pose-estimation-challenge/sats_with_different_bg.png)
+![Tango-estimation](./static/example-img.png)
 
 ### Models
 *July 1st* 
